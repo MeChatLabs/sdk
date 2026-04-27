@@ -1,4 +1,4 @@
-# MeChat
+# MeChat : 5mTgus3touGMXFcqDmRUg9qi5h7fjcNm3hPAZpobpump
 
 **The decentralized messaging layer for Web3.**  
 Secure, private, and seamless crypto communication.  
